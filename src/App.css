@@ -1,0 +1,51 @@
+.a{
+  border: #000000 5px solid;
+  margin-top: 5%;
+}
+.b {
+  border: #000000 5px solid;
+  margin-top: 5%;
+}
+.c {
+  border: #000000 5px solid;
+  margin-top: 5%;
+}
+.logo {
+  width: 120px;
+}
+.header {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+  background-color: rgb(0, 0, 0);
+}
+button {
+  border: none;
+  background: none;
+  color: white;
+}
+button:hover {
+  color: #0882e5;
+  transition: 0.3s;
+}
+.footer {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  padding: 10px;
+  background-color: rgb(0, 0, 0);
+  color: #0882e5;
+  margin-top: 5%;
+}
+.watch {
+  border-radius: 0%;
+  background-color: #0882e5;
+  border: none;
+}
+.btn_add{
+  background-color: #0882e5;
+  height: 40px;
+}
+.btn_add:hover{
+  color: white;
+}
